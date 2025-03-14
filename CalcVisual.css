@@ -1,0 +1,33 @@
+/* styles.css */
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+#calculator {
+  padding: 20px;
+  background-color: #222;
+}
+
+#display {
+  width: 240px;
+  height: 50px;
+  font-size: 50px;
+  margin-bottom: 20px;
+  padding: 5px;
+}
+
+#buttons {
+  display: grid;
+  grid-template-columns: repeat(4, 60px);
+  gap: 10px;
+}
+
+button {
+  font-size: 20px;
+  background-color: #444;
+  color: white;
+}
