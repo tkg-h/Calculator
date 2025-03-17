@@ -1,7 +1,7 @@
 ## web簡易電卓アプリ
 
 ### リンク
-[http://127.0.0.1:5500/CalcVisual.html](https://your-username.github.io/my-calculator/)
+https://your-username.github.io/my-calculator/
 
 ### 技術
 + CSS
