@@ -1,7 +1,7 @@
 ## web簡易電卓アプリ
 
 ### リンク
-https://your-username.github.io/my-calculator/
+https://tkg-h.github.io/Calculator/
 
 ### 技術
 + CSS
