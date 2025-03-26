@@ -1,5 +1,4 @@
 let input = [];
-let resultDisplayed = false;
 // 数字を画面に表示・配列に追加
 function addNumber(num) {
   input.push(num);
