@@ -9,7 +9,7 @@ function addNumber(num) {
 function addOperator(op) {
   // 演算子が連続していればスキップ
   let last = input[input.length - 1];
-  if (["+", "-", "*", "/"].includes(last)) {
+  if (["+", "-", "÷", "×"].includes(last)) {
   } else {
     input.push(op);
   }
